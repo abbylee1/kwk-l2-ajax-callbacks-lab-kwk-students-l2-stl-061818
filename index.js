@@ -10,5 +10,6 @@ function searchRepositories() {
   
 }
 
-var render
+var renderSearchResults = (data) => data.items.map(results =>
+  )
   
