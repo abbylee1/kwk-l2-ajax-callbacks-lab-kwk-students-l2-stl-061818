@@ -2,7 +2,7 @@ $(document).ready(function (){
 });
 
 function searchRepositories(searchTerms) {
-  $("").click(function(){
+  $("searchRepositories").click(function(searchTerms){
     alert("The paragraph was clicked.");
 });
 }
