@@ -2,7 +2,7 @@ $(document).ready(function (){
 });
 
 function searchRepositories(searchTerms) {
-  $.click()
+  $.click(function(searchTerms))
 });
 }
   
