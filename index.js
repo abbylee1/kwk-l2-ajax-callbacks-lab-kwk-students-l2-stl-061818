@@ -2,6 +2,7 @@ $(document).ready(function (){
 });
 
 function searchRepositories(#searchTerms) {
-  $("#searchTerms");
+  $("#searchTerms").val();
+  $.get("#searchTerms")
 }
   
