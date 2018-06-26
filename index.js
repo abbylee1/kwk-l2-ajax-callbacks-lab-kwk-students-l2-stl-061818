@@ -3,6 +3,6 @@ $(document).ready(function (){
 
 function searchRepositories(#searchTerms) {
   $("#searchTerms").val();
-  $.get("#searchTerms")
+  $.get("https://api.github.com/search/repositories?q=")
 }
   
