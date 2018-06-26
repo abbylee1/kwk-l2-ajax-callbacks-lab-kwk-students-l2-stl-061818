@@ -1,5 +1,5 @@
 $(document).ready(function (){
 });
 
-function searchTerms
-
+function searchRepositories(searchTerms);
+  
